@@ -1,2 +1,13 @@
 PYTHON GRADE SYSTEM - ONLY IF ELIF used
-<br>WHEN CODE ASK FOR TEACHERS NAME:Tahir<br>
+WHEN CODE ASK FOR TEACHERS NAME:Tahir
+WHEN COE ASK FOR PASSWORD:t1,T1,t (YOU CAN USE ANYONE)
+ENTER STUDENT NAME:zoeya,madia,paul,netwon,motu  (YOU CAN USE ANYONE)
+Input subjects
+Input marks
+
+percentage >= 90: [Brilliant Student]")
+percentage >= 80: [Excellent Student]")
+percentage >= 70: [GOOD A++ Student]")
+percentage >= 60: [GOOD A+ Student]")
+percentage >= 50: [BAD, NEED TO FOCUS]")
+percentage >= 40: [VERY BAD, NEED MORE FOCUS]")
